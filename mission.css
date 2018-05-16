@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+nav {
+	width: 100%;
+	text-align: left;
+	background-color: white;
+	font-size: 20px;
+}
+nav > a {
+	text-decoration: none;
+	margin-left: 10px;
+	margin-right: 190px;
+	font-family: 'Oswald', sans-serif;
+}
+.nav_home {
+	color: #57BC90;
+}
+.nav_mission {
+	color: black;
+}
+.nav_how {
+	color: #57BC90;
+}
+.nav_you {
+	color: #57BC90;
+}
