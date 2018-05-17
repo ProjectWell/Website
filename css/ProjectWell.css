@@ -2,22 +2,20 @@
 @import url(https://fonts.googleapis.com/css?family=Courgette);
 @import url(https://fonts.googleapis.com/css?family=Handlee);
 
-nav {
+
+.pw-logo {
+	width: 40px;
+	height: 50px;
+}
+.nav-well {
 	width: 100%;
 	text-align: left;
-<<<<<<< HEAD
-	background-color: white;
-=======
-	background-color: rgb(0, 105, 204);
->>>>>>> c6081dd3f2acb3b18906461a7b2090804f9c1390
+	background-color: #17a2b8;
 	font-size: 20px;
 	border-top:  2px solid black;
 }
 nav > a {
-<<<<<<< HEAD
-=======
 	color: rgb(13, 219, 58);
->>>>>>> c6081dd3f2acb3b18906461a7b2090804f9c1390
 	text-decoration: none;
 	margin-left: 10px;
 	margin-right: 190px;
@@ -37,7 +35,7 @@ nav > a {
 }
 
 header {
-	background: -webkit-linear-gradient(#1ba0d7, #002d3f);
+	background: #77C9D4;
 	font-family: 'Courgette', sans-serif;
 	border-right: 2px solid black;
 	border-left: 2px solid black;
@@ -54,11 +52,10 @@ header > h1 {
 }
 header > h2 {
 	color: white;
-	font-size: 30px;
-	padding-bottom: 5px;
+	font-size: 26px;
+	padding-bottom:2px;
 }
 .main_image {
-	border: 2px solid black;
 	margin: 0px;
 }
 
