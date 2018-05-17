@@ -5,11 +5,19 @@
 nav {
 	width: 100%;
 	text-align: left;
+<<<<<<< HEAD
 	background-color: white;
+=======
+	background-color: rgb(0, 105, 204);
+>>>>>>> c6081dd3f2acb3b18906461a7b2090804f9c1390
 	font-size: 20px;
 	border-top:  2px solid black;
 }
 nav > a {
+<<<<<<< HEAD
+=======
+	color: rgb(13, 219, 58);
+>>>>>>> c6081dd3f2acb3b18906461a7b2090804f9c1390
 	text-decoration: none;
 	margin-left: 10px;
 	margin-right: 190px;
